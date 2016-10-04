@@ -122,6 +122,11 @@ To measure the circumference of your ankle and wrist, wrap [body tape](http://a-
 
 ![Ankle and Wrist](../images/Ankle%20and%20Wrist.jpg)
 
+> “Enthusiasm is more important than skill because the critical element in developing expertise is the desire to practice.”
+>   – Gretchen Rubin
+
+[Jump the Female Part](#julian-after-three-months)
+
 ### I'm female
 
 #### Female physique examples
