@@ -54,6 +54,10 @@ Let’s develop a realistic expectation so you’re not disappointed when you co
 
 First, select your gender to display the appropriate content:
 
+[I'm male](#im-male)
+
+[I'm female](#im-female)
+
 ### I'm male.
 
 #### Male physique examples
