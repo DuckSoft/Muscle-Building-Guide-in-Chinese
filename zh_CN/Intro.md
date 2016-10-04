@@ -5,7 +5,7 @@
 > “明年今日，你会希望此时此刻自己已经行动了。”
 >   – 卡伦·兰姆
 
-## 多数的健身建议都是误导。
+## 多数的健身建议都是误导
 
 本指南是一年以来我通过现代科学能够证明的最有效的肌肉锻炼方法，它适用于任何性别的人。
 
@@ -35,63 +35,62 @@
 
 我是一个创业者也是一个工程师。 我的作品被展示在 [Forbes](http://www.forbes.com/sites/alextaub/2015/06/18/major-contributor-to-open-source-technologies-julian-shapiro-pulls-back-the-curtains-on-saas-usage/#7f882fc7985e) 上，我出过 [书](https://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665)，写过 [开源库](https://github.com/julianshapiro/velocity)，还 [开过](http://thenextweb.com/apps/2011/08/05/find-a-great-domain-name-for-your-startup-without-paying-the-earth-with-namelayer/#gref) 并且 [卖掉](http://venturebeat.com/2013/09/24/techstars-buys-namelayer-to-save-its-startups-from-awful-domain-names/) 了一家公司。
 
-When something strikes me as hard but rewarding, I try to figure out how to make it easy for everyone. That's what excites me. I bring an engineer’s mindset to a non-engineering problem. I go through the research and self-experiment to see if I can uncover the fundamental building blocks.
+当我遇到一些对我有些困难但是能从中获益的事情的时候，我会尝试想办法让它变得对其他人而言更简单一些。这就是让我兴奋的事情。我用工程师的思维模式来思考其他的事情，我通过研究和自我实验，看看我是否能够揭开本质的组成部分。
 
-I then weave a compelling narrative around it to motivate others to learn alongside me.
+然后我将它编成有说服力的故事来激励人们和我一起学习。
 
-You can see what guide I’m cooking up next on [Twitter](https://twitter.com/Shapiro/).
+你可以通过 [Twitter](https://twitter.com/Shapiro/) 查看我正在准备的其他指南。
 
-## Bodybuilding advice for everyone
+## 适用于每个人的健身意见
 
-I'm covering the universal principles of how to build muscle. 
+本指南涵盖了如何增长肌肉的普遍原则。
 
-If you're a beginning bodybuilder, you'll learn how to add 20 lbs (9 kg) of muscle. If you're an intermediate, you'll learn how to break through plateaus. If you're looking to get stronger instead of bigger, 95% of this guide applies to you. 
+如果你是刚入门的锻炼者，你将会学到如何增长 9 千克（20 磅）的肌肉；如果你是中阶锻炼者，你将学会如何突破瓶颈；如果你打算变得更加强壮而不是更加庞大，本指南的 95% 都适用于你。
 
-## How much muscle can I gain?
+## 我能增长多少肌肉？
 
-Let’s develop a realistic expectation so you’re not disappointed when you complete this program, and so you sustain motivation throughout your gradual weekly gains.
+让我们来确定一个贴合实际的期望值以免完成训练以后感到失望，同时也通过每周的肌肉增长给你持续的锻炼动机。
 
-First, select your gender to display the appropriate content:
+首先选择你的性别以查看相应的内容：
 
-[I'm male](#im-male)
+[我是男性](#im-male)
 
-[I'm female](#im-female)
+[我是女性](#im-female)
 
-### I'm male.
+### 我是男性
 
-#### Male physique examples
+#### 男性身体范例
 
-Take a look at the physique below. [Download](../images/Male Body Target 1.jpg) the image and glance at it whenever you need motivation to continue working out:
+看看下面这个身材， [下载](../images/Male Body Target 1.jpg) 下来这张图片并且在你需要动力的时候看一眼:
 
 ![Male ideal physique](../images/Male%20Body%20Target%201.jpg)
 
-This is a realistic reference for the muscle mass an average-sized male can reach after 4 months of working out. Charles looks healthy, he has the muscle mass most women prefer, and he didn’t need steroids to get there. (If you’re already much bigger than this model, I’ll show you how to overcome plateaus to continue getting bigger.)
+这是一个对于平均体型男性可以在锻炼四个月后达到的效果。查尔斯看起来很健康，他的肌肉质量会让大多数女性喜欢，并且它不需要类固醇的帮助便能锻炼成这样。（如果你已经比这个例子更加强壮，我将会教你如何突破瓶颈变得更加强壮。）
 
-**To repeat: Any disease-free, non-elderly adult male can get to the above model’s size without steroids and with only a few months of working out.**
+**再重复一遍：任何没有疾病，年轻的成年男性在短短几个月的锻炼后都能在不需要类固醇的帮助下达到上图的水平。**
 
-If you’re starting from complete frailty, ~3 months will get you to here instead:
+如果你从完全的脆弱的身子练起，三个月后你将会变成这样：
 
 ![Male mid-way ideal physique](../images/Male%20Part-way%20Body%20Target.jpg)
 
-Or, if you’re already big, you can level up with enough hard work:
+或者如果你已经比较强壮，你可以通过努力变得更加强壮：
 
 ![Male large ideal physique](../images/matt.jpg)
 
-Note: Getting significantly bigger than the physique above requires years of work. It gets harder to continue growing after your first few months of exercising. Your increasingly strong muscles require increasingly high stimulus. When you enter this stage, you gain at a rate closer to just ~2 lbs (0.9kg) per year.
+注：想要变得比上图明显强壮需要几年的锻炼，在几个月的锻炼后想要继续增长肌肉会变得更加困难，你不断增长的强壮肌肉需要不断增加的更高的刺激。当你进入这个阶段后，你每年大概会增长 0.9 千克（2 磅）的肌肉。
 
-Recognize that all these guys have low body fat, which helps reveal their muscles. You will not actually lose fat by lifting weights, so weight loss is a separate goal altogether. 
+注意这上面的所有人都有少量的体脂，用于帮助转换为肌肉。事实上你并不会通过举重减少脂肪，因此减肥是另一件独立的事情。
+如果你变强壮的目的是吸引女性，这里是一个可行性检测：大多数女性认为上图的身材比起健身杂志上的更加吸引人，这已经是定论了（[相关研究](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050601), [相关研究](http://dfred.bol.ucla.edu/FrederickFesslerHaselton2005MuscularityInMagazines.pdf)）： 女性将拥有巨大的肌肉的男性比作化过多妆的女性，意思在于这有些太过头了。
 
-If your motivation for getting huge is having women find you more attractive, here’s a reality check: Most women find the physiques shown above more attractive than the jacked physiques found on the covers of muscle magazines. Studies of women’s preferences are conclusive ([study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050601), [study](http://dfred.bol.ucla.edu/FrederickFesslerHaselton2005MuscularityInMagazines.pdf)): Women compare enormous physiques to when “a girl wears too much makeup” — meaning it’s too much of a good thing.
-
-In other words, the majority of women prefer the left side to the right side:
+换言之，女性更喜欢左边这幅图这样的。
 
 ![Male physique comparison](../images/What%20Women%20Want.jpg)
 
-(Still don’t believe it? Poll your female friends.)
+（还是不信？让你的女性朋友来投个票吧。）
 
-So if your goal is to simply arrive at the optimal size for being attractive to women, **you can get there in just a few months** on this program. (But, returning to the earlier note on body fat, know that women also prefer it to be as low as possible.)
+因此如果你的目的是达到可以吸引女性的身材, 通过本指南**你只需要几个月时间就能实现**。 (但是回到之前提到的体脂问题，要知道女性还是会认为越低越好。)
 
-#### Steroids
+#### 类固醇
 
 Despite this reality check about women's tastes, you're probably still curious how some people — like Hollywood superheroes — get _huge_. Well, here's the truth: Most (if not all) celebrities playing superheroes [are or were at some point](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091) on [steroids](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [insulin][https://www.t-nation.com/diet-fat-loss/insulin-advantage), or [HGH](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — the use of which can result in serious health issues. It is otherwise impossible to go from an average physique to [Thor Size](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ in just a couple years.
 
