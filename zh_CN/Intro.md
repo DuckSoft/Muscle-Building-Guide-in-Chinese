@@ -53,9 +53,9 @@
 
 首先选择你的性别以查看相应的内容：
 
-[我是男性](#im-male)
+[我是男性](#我是男性)
 
-[我是女性](#im-female)
+[我是女性](#我是女性)
 
 ### 我是男性
 
@@ -92,7 +92,7 @@
 
 #### 类固醇
 
-Despite this reality check about women's tastes, you're probably still curious how some people — like Hollywood superheroes — get _huge_. Well, here's the truth: Most (if not all) celebrities playing superheroes [are or were at some point](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091) on [steroids](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [insulin][https://www.t-nation.com/diet-fat-loss/insulin-advantage), or [HGH](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — the use of which can result in serious health issues. It is otherwise impossible to go from an average physique to [Thor Size](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ in just a couple years.
+尽管这个效果更加贴合女性的喜好，你可能仍然感到好奇那些好莱坞超级英雄是如何变得如此强壮的。 事实上是大多数的超级英雄扮演者 [are or were at some point](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091) on [steroids](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [insulin][https://www.t-nation.com/diet-fat-loss/insulin-advantage), or [HGH](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — the use of which can result in serious health issues. It is otherwise impossible to go from an average physique to [Thor Size](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ in just a couple years.
 
 So get celebrities out of your head as physique targets. You've been lied to.
 
@@ -172,34 +172,34 @@ There's otherwise no secret to training glutes. They respond just like every oth
 > “Enthusiasm is more important than skill because the critical element in developing expertise is the desire to practice.”
 >   – Gretchen Rubin
 
-## Julian after three months
+## 三个月后的 Julian
 
-Below are photos of me before working out and 90 days later. You can get significantly bigger than the 90 day mark by continuing the program for another 2–3 months. (After 5–6 months, however, you gain new muscle at about ~2lbs or 0.9kg per year.)
+下面这些照片是我九十天运动计划前的照片。 如果在九十天后你继续执行这个计划两三个月，你可以显著的变得比这样更加强壮（不过五六个月后你每年大概会只能增长 0.9 千克（2 磅）肌肉）
 
-My arms went from 11" (28cm) unflexed to 13.5"(34cm). Inspiring for just 90 days.
+在这九十天里我的胳膊从 28 厘米增长到了 34 厘米。
 
 ![Author physique starting point](../images/My%20Transformation.jpeg)
 ![Author physique ending point](../images/My%20Transformation%202.jpeg)
 
-I'm finally putting together a gallery of reader transformation photos. Please send your photos [here](mailto:submissions@julian.com?subject=Reader%20Transformation%20Photos).
+最后我会把读者的转变照片放上来，请把你们的照片发送到[这里](mailto:submissions@julian.com?subject=Reader%20Transformation%20Photos)。
 
-## Get rid of your workout excuses
+## 不要为不运动找借口
 
-You know that cycle where you keep delaying a diet because you can’t stop saying to yourself, “Let me eat dessert tonight and I’ll officially start my diet tomorrow”? That cycle can happen with bodybuilding too.
+如果你一直拖延你的节食计划因为你不断的告诉自己“让我今晚再吃一点甜品，我明天会开始节食的。”这样你就会进入一个恶性循环，这种循环同样也可能发生在剑身上。
 
-Commit or don’t, but don’t lie to yourself.
+无论承诺与否，不要欺骗你自己。
 
-Let's work through some of your potential concerns:
+让我们先来解决一些你潜在的顾虑：
 
-> - **Have a history of not following through?** Identify the person you respect most in life — someone who you don't want to think of you as a quitter. Tell them about your 90 day fitness goal and ask them to hold you to it. Create a calendar event for 3 months from now and include them in it.
-> - **Too lazy to commute to the gym?** I'll explain how to work out from home.
-> - **Concerned it’ll take too long?** Men only have to get to [this size](https://daks2k3a4ib2z.cloudfront.net/54a5a40be53a05f34703dd18/57939ede412fc21f2b6577b3_s_47BA25183F58123E5E1B386359348E6870986C628A36A91739F8545AFA7EFAAB_1468603190221_Male%2BBody%2BTarget%2B1.jpg) to be maximally attractive to women! It takes ~90 days. You do not have to get enormous.
-> - **Have a hard time scheduling workouts?** Wake up an hour earlier than normal and work out in the mornings before your day kicks off.
-> - **Don’t have the time?** Getting bigger only requires 1 hour three times a week. C'mon.
-> - **Are you embarrassed to go to the gym?** Pay for a couple training lessons at your local gym so you can learn proper form.
-> - **Afraid you don't have the talent?** Bodybuilding requires [zero talent](https://twitter.com/Shapiro/status/767431595112345600). You don't have to be an athlete whatsoever. If you can put food in your mouth and lift your groceries, you can lift weights. Human bodies are naturally wired for it.
+> - **曾经有过无法执行的经历？** 找一个生活中你最敬重的人，一个你不想让 TA 认为你是个半途而废的人的人，告诉他们你的九十天健身计划并且让他们监督你。创建一个从现在开始为期三个月的规划表并把他们包含在内。
+> - **太懒以至于不想去练习体育馆？** 我将会教你如何在家锻炼。
+> - **担心这会花费太多时间？** 男性达到 [这个体型](https://daks2k3a4ib2z.cloudfront.net/54a5a40be53a05f34703dd18/57939ede412fc21f2b6577b3_s_47BA25183F58123E5E1B386359348E6870986C628A36A91739F8545AFA7EFAAB_1468603190221_Male%2BBody%2BTarget%2B1.jpg) 就能够最大程度的吸引女性。这会花费你大概九十天时间，你并不需要变得过于体型庞大。
+> - **不知道如何规划运动时间？** 比以前早起一小时，在一天开始前运动。
+> - **没有时间？** 想要变得强壮只需要花费你每周三个一小时的时间，来吧。
+> - **去体育馆让你感到尴尬？** 在你当地的体育馆参加一些训练课程来学一些正确的姿势。
+> - **担心自己没有天赋？** [零基础](https://twitter.com/Shapiro/status/767431595112345600)的人就可以健身。你并不需要是一个运动员。如果你可以把食物放入嘴中，可以拿起杂物，你就可以锻炼。 人类的身体本来就可以做这些事情。
 
-> My favorite mind hack for gym motivation is only allowing myself to listen to my favorite bands and podcasts when I'm working out.
+> 我最喜欢的激励自己去体育馆的方式就是在我运动时听自己最爱听的音乐或者广播。
 
 Don’t you want to finally be at a place where you wake up every morning, look in the mirror, and think, “I look pretty good.”? You're 90 days away from that. Go mark it in your calendar. Surprise all your friends with a big three-month transformation.
 
