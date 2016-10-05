@@ -125,19 +125,19 @@ To measure the circumference of your ankle and wrist, wrap [body tape](http://a-
 
 [Jump the Female Part](#julian-after-three-months)
 
-### I'm female
+### 我是女性
 
-#### Female physique examples
+#### 女性身体范例
 
-Here are two women with low body fat so you can clearly see their muscle size:
+这是两个比较瘦的女性的图片，你可以清楚得看到她们肌肉的大小：
 
 ![Female thin physique](../images/Female%20Wrong%20Body%20Target.jpg)
 
 ![Female fit physique](../images/Female%20Body%20Target.jpg)
 
-The first woman is thin (look at the frailness of her arms) and the second woman is fit. 
+第一个女性很瘦（看她脆弱的胳膊）而第二个女性很健美。
 
-(By the way, if you're looking for more inspiration, see [here](https://www.instagram.com/achieving_balance/) and [here](https://www.instagram.com/blogilates/).)
+（除此之外，如果你需要更多的激励，看 [这里](https://www.instagram.com/achieving_balance/) 还有 [这里](https://www.instagram.com/blogilates/)。）
 
 Notice I’m not using the word “toned," which isn’t a thing. When a muscle is exercised, it responds by getting bigger, but it can’t stay the same size and just get harder. So when people use the word “toned," they’re referring to the combination of (1) being thin enough that muscle definition is visible and (2) having muscles to begin with.
 
@@ -161,13 +161,13 @@ While there are certainly fewer muscular women in the world, that’s a reflecti
 
 It’s important you understand that you're not at a disadvantage when bodybuilding because thinking otherwise can deter your progress. For example, one study examined the opposite scenario, where men were tricked into thinking they were taking steroids when they weren’t, and they consequently lifted 350% more in weight ([study](http://jamesclear.com/wp-content/uploads/2015/07/anabolic-steroids-the-physiological-effects-of-placebos.pdf), [study](http://www.ejmh.eu/mellekletek/2011_2_196_Berdi_etal.pdf))! This suggests your confidence in the gym plays a critical role in how much you can lift.
 
-#### Getting a butt
+#### 塑造臀部
 
-No amount of aerobic activity, yoga, or calisthenics will build your butt ("glutes"). It's all about using heavy weight as per a proper bodybuilding program.
+你不需要有氧运动，瑜伽或者健美操帮助你塑造你的臀部。你只需要通过重量按照正确的健身计划来塑造。
 
-Specifically, the squat exercises you'll be doing are responsible for building glutes.
+尤其是下蹲练习对你的臀部塑造很有帮助。
 
-There's otherwise no secret to training glutes. They respond just like every other muscle — you exercise them with 8-10 reps and use heavier weight each workout.
+没有其他的什么塑造臀部的秘密，臀部和其他地方的肌肉一样，你需要锻炼 8-10 下每次并且每次都使用越来越大的重力。
 
 > “Enthusiasm is more important than skill because the critical element in developing expertise is the desire to practice.”
 >   – Gretchen Rubin
