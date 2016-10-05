@@ -201,33 +201,33 @@ There's otherwise no secret to training glutes. They respond just like every oth
 
 > 我最喜欢的激励自己去体育馆的方式就是在我运动时听自己最爱听的音乐或者广播。
 
-Don’t you want to finally be at a place where you wake up every morning, look in the mirror, and think, “I look pretty good.”? You're 90 days away from that. Go mark it in your calendar. Surprise all your friends with a big three-month transformation.
+难道你不想当你起床时，看着镜子可以问心无愧的说一句“这看起来很棒。”嘛？ 你距离这个目标只有九十天，赶紧去在你的日历上标注好。然后让你的所有朋友为你这个三个月的转变大吃一惊。
 
-So stop procrastinating. Let's freaking do this.
+所以不要再拖延啦，让我们开始做吧。
 
-Here's a final piece of motivation. Listen to the words spoken in this video:
+这是最后一个小激励，听这个视频里提到的词语：
 
 https://cdn.embedly.com/widgets/xcomm.html#name=media&sid=f37e6a4a83ad4cbd80aa7390f9f0e4e9
 
 > “Never drop the ball pursuing a goal just because of the time it takes. That time will pass by anyway.”
 >   – Earl Nightingale
 
-## Guide overview
+## 指南概览
 
-For as long as you want to continue gaining muscle, this program requires you to go to the gym three times per week for 45-60 minutes. Once you’ve reached your target size, you can switch to a maintenance plan of just two 40 minute sessions per week.
+只要你想不断地增长肌肉, 这个计划都要求你每周去三次体育馆，每次 45-60 分钟。当你达到目标体型以后，你可以转换到维持计划，即每周两次，每次 40 分钟。
 
-Here’s the breakdown of this guide:
+下面是这个指南的各个部分：
 
-**Prep Week**
+**预备周**
 
-> - Buy your workout accessories.
-> - Take your starting photos.
-> - Get into the habit of sleeping enough.
+> - 购买锻炼器材。
+> - 为自己拍照。
+> - 养成良好的睡眠习惯。
 
-**Workouts**
+**锻炼**
 
-> - First 2 months: Low-volume workouts with non-intimidating exercises anyone can do — even with only dumbbells. The workouts are 45 minutes long. You don’t have to push yourself hard yet because your unexercised muscles will respond quickly.
-> - 2 months to infinity: This phase is for those who want to continue getting as big as possible. This plan consists of a higher volume and intensity of exercise, which will become necessary for your muscles to continue growing.
+> - 前两个月：少量且大多数人都能做到的运动，哪怕你只有哑铃。运动大概持续 45 分钟。你不需要把自己推向一个困难的境地因为你没有锻炼过的肌肉会很快有所反映。
+> - 两个月后：这是为了那些想要肌肉变得越来越大的人而准备的阶段，这个计划由大量高强度的锻炼组成，这对于你的肌肉的持续增长很重要。
 
 **After the following disclaimer, we can move onto the next section: Prep Week!**
 
