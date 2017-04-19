@@ -96,17 +96,17 @@
 
 #### 类固醇
 
-尽管这个效果更加贴合女性的喜好，你可能仍然感到好奇那些好莱坞超级英雄是如何变得如此强壮的。 事实是：大多数的超级英雄扮演者 [在使用或以前使用了](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091)  [类固醇](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [胰岛素][https://www.t-nation.com/diet-fat-loss/insulin-advantage)，或 [生长激素](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — 这些可都是可能导致严重健康问题的。不然怎么可能在短短几年内从平均身材成长为 [雷神尺寸](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ 呢？
+尽管这个效果更加贴合女性的喜好，你可能仍然感到好奇那些好莱坞超级英雄是如何变得如此强壮的。 事实是：大多数的超级英雄扮演者 [在使用或以前使用了](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091)  [类固醇](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using)，[胰岛素](https://www.t-nation.com/diet-fat-loss/insulin-advantage)，或 [生长激素](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — 这些可都是可能导致严重健康问题的。不然怎么可能在短短几年内从平均身材成长为 [雷神尺寸](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ 呢？
 
 所以让这些名流淡出你的目标吧，你被骗咯。
 
-A discussion of what is natural to attain should touch upon natural bodybuilding competitions, wherein contestants are not permitted to use steroids. Here are [some such contestants](http://www.bodybuilding.com/contest_media/6472/0/d/2008fitnessatlanticnovicelightweight671216831169.jpg). However, recognize that their muscles are accentuated by tans, vascularity, low body fat, and having done pushups right before walking onto the stage. Also notice how they have thick torsos and broad shoulders — these men are outliers with big frames. And, certainly, they've put in years of incredibly hard work.
+一个讨论关于“自然会达到什么程度”的自然健美比赛, 其中的参赛者不允许使用类胆固醇. 这里有 [一些这样的参赛者](http://www.bodybuilding.com/contest_media/6472/0/d/2008fitnessatlanticnovicelightweight671216831169.jpg)。但是, 他们认识到他们的肌肉是因为黑色素，血管分布，低体脂，还有在走上舞台前做了俯卧撑而突起的. 还注意到他们如何拥有厚重的身体躯干和宽阔的肩膀 — 这些人是大框架的极端值。还有，当然，他们已经投入了多年的艰苦努力。
 
-But here's the more insidious aspect: "Natural" doesn't always mean you can't take other substances like HGH and insulin, which hugely benefit muscle growth. (You can read amateur breakdowns of cheating [here](https://www.t-nation.com/training/how-natural-is-natural-bodybuilding), [here](http://nattyornot.com/steroid-using-bodybuilders-pass-drug-tests/), and [here](http://nattyornot.com/bodybuilders-steroids-compete-natural-shows/). While not investigative, these reports present evidence for how easy it is to circumvent "natural" competitions.)
+但这里有更多的潜在方面: "自然" 并不总意味着你不能使用其他物质，比如对肌肉生长有很大帮助的生长激素和胰岛素(你可以看到外行的作弊 [这里](https://www.t-nation.com/training/how-natural-is-natural-bodybuilding)，[这里](http://nattyornot.com/steroid-using-bodybuilders-pass-drug-tests/)，和 [这里](http://nattyornot.com/bodybuilders-steroids-compete-natural-shows/)。虽然没有调查, 这些报告为规避"自然" 比赛是多么容易提供证据。)
 
-All of this is to once again hammer in that you must throw out the physique targets beat into you by pop culture and local gym rats if you want to build naturally.
+所有的这些都再次警示，如果你想自然的锻炼出肌肉，你就得 throw out the physique targets beat into you by pop culture and local gym rats.
 
-What exactly do the results of steroids look like? Well, the model below has chest and shoulder muscles that are unnaturally large relative to his bone size. This relative size is not possible without artificial help. If your goal is to look like this or bigger, that's fine, but just know that you're not getting there naturally.
+类固醇究竟能起到什么效果？下面的模特就拥有与骨架不相称的胸肌和肩膀肌肉。如果没有认为帮助，这种相对大小是不可能的。 如果你的目标是这样或者更甚，也行，但是你得知道，这是不可能自然达到的。
 
 ![Male unrealistic physique](../images/Male%20Body%20Unrealistic%20Target.jpg)
 
@@ -114,18 +114,18 @@ What exactly do the results of steroids look like? Well, the model below has che
 
 我们还没有回答关于我们能自然获得多大尺寸肌肉的问题。
 
-Check this out: Researcher [Casey Butt](http://www.weightrainer.net/index.html) performed a fascinating analysis on the muscle size of the world's top male bodybuilders ([source](http://www.weightrainer.net/potential.html), [study](http://www.ncbi.nlm.nih.gov/pubmed/7496846)). He used data from the pre-steroid bodybuilding era, which means it reflects how muscular males can get naturally. We'll use his results to approximate the maximum size we can weigh at [10% body fat](https://paper.imgix.net/https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_47BA25183F58123E5E1B386359348E6870986C628A36A91739F8545AFA7EFAAB_1468603592749_Male%2BPart-way%2BBody%2BTarget.jpg?auto=format&ixlib=js-0.2.1&s=8d542b39daff90e747952506b650c4a6).
+来看看这个：研究人员[Casey Butt](http://www.weightrainer.net/index.html) 对世界顶级健美爱好者的肌肉尺寸进行了一次吸引人的研究（[源](http://www.weightrainer.net/potential.html)，[研究](http://www.ncbi.nlm.nih.gov/pubmed/7496846)）。它使用**前类固醇健美时代**的数据, 这意味着这反映了如何自然的成为肌肉男. 我们将使用他的数据 to approximate the maximum size we can weigh at [10%体脂](https://paper.imgix.net/https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_47BA25183F58123E5E1B386359348E6870986C628A36A91739F8545AFA7EFAAB_1468603592749_Male%2BPart-way%2BBody%2BTarget.jpg?auto=format&ixlib=js-0.2.1&s=8d542b39daff90e747952506b650c4a6).
 
 我把Casey的公式转换成了一个计算器，仅适用于男性：
 
 - @todo calculator here
 
-To measure the circumference of your ankle and wrist, wrap [body tape](http://a-fwd.com/es=juliancom09-21&fr=juliancom06-21&de=juliancom0c-21&uk=juliancom-21&ca=juliancom0d-20&com=juliandotc059-20&asin-es=B01B9EJBB4&asin-fr=B01G1HPD4I&asin-de=B00YC7PJAI&asin-uk=B000G7YW7Y&asin-ca=B000KBFCG6&asin-com=B000KBFCG6) around the parts indicated in the images below:
+要测量踝关节和腕部的周长, 请将 [体带](http://a-fwd.com/es=juliancom09-21&fr=juliancom06-21&de=juliancom0c-21&uk=juliancom-21&ca=juliancom0d-20&com=juliandotc059-20&asin-es=B01B9EJBB4&asin-fr=B01G1HPD4I&asin-de=B00YC7PJAI&asin-uk=B000G7YW7Y&asin-ca=B000KBFCG6&asin-com=B000KBFCG6) 缠绕在如下图所示的部位:
 
 ![Ankle and Wrist](../images/Ankle%20and%20Wrist.jpg)
 
-> “Enthusiasm is more important than skill because the critical element in developing expertise is the desire to practice.”
->   – Gretchen Rubin
+> “热情比技巧更重要，因为developing expertise的关键要素是练习的愿望。”
+>   – 格雷琴·罗宾
 
 [Jump the Female Part](#julian-after-three-months)
 
@@ -141,11 +141,11 @@ To measure the circumference of your ankle and wrist, wrap [body tape](http://a-
 
 第一个女性很*瘦*（看她脆弱的胳膊）而第二个女性很*健美*。
 
-（除此之外，如果你需要更多的激励，看 [这里](https://www.instagram.com/achieving_balance/) 还有 [这里](https://www.instagram.com/blogilates/)。）
+（除此之外，如果你需要更多的灵感，看 [这里](https://www.instagram.com/achieving_balance/) 还有 [这里](https://www.instagram.com/blogilates/)。）
 
 Notice I’m not using the word “toned," which isn’t a thing. When a muscle is exercised, it responds by getting bigger, but it can’t stay the same size and just get harder. So when people use the word “toned," they’re referring to the combination of (1) being thin enough that muscle definition is visible and (2) having muscles to begin with.
 
-You might not want to get as muscular as the second woman, but getting just halfway there will still make an enormous difference in your physique. 
+你可能不想像第二位女士一样健硕, 但是哪怕只做到一半也能为你的身体带来巨大改变。
 
 If you only want to be muscular in a certain areas, this program provides a workout plan for only growing your arms (biceps and triceps), abs, butt (glutes), and hamstrings. Not sure what those are? The illustration below is applicable to both women and men:
 
