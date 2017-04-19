@@ -96,9 +96,9 @@
 
 #### 类固醇
 
-尽管这个效果更加贴合女性的喜好，你可能仍然感到好奇那些好莱坞超级英雄是如何变得如此强壮的。 事实上是大多数的超级英雄扮演者 [are or were at some point](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091) on [steroids](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [insulin][https://www.t-nation.com/diet-fat-loss/insulin-advantage), or [HGH](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — the use of which can result in serious health issues. It is otherwise impossible to go from an average physique to [Thor Size](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ in just a couple years.
+尽管这个效果更加贴合女性的喜好，你可能仍然感到好奇那些好莱坞超级英雄是如何变得如此强壮的。 震惊！事实竟然是这样：大多数的超级英雄扮演者 [在使用或以前使用了](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091)  [类固醇](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [胰岛素][https://www.t-nation.com/diet-fat-loss/insulin-advantage)，或 [生长激素](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — 这些可都是可能导致严重健康问题的。不然怎么可能在短短几年内从平均身材成长为 [雷神尺寸](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ 呢？
 
-So get celebrities out of your head as physique targets. You've been lied to.
+所以让这些名流淡出你的目标吧，你被骗咯。
 
 A discussion of what is natural to attain should touch upon natural bodybuilding competitions, wherein contestants are not permitted to use steroids. Here are [some such contestants](http://www.bodybuilding.com/contest_media/6472/0/d/2008fitnessatlanticnovicelightweight671216831169.jpg). However, recognize that their muscles are accentuated by tans, vascularity, low body fat, and having done pushups right before walking onto the stage. Also notice how they have thick torsos and broad shoulders — these men are outliers with big frames. And, certainly, they've put in years of incredibly hard work.
 
@@ -110,13 +110,13 @@ What exactly do the results of steroids look like? Well, the model below has che
 
 ![Male unrealistic physique](../images/Male%20Body%20Unrealistic%20Target.jpg)
 
-#### Male maximum muscle size
+#### 男性的最大肌肉尺寸
 
-We still haven't answered the question of how big we can naturally get.
+我们还没有回答关于我们能自然获得多大尺寸肌肉的问题。
 
 Check this out: Researcher [Casey Butt](http://www.weightrainer.net/index.html) performed a fascinating analysis on the muscle size of the world's top male bodybuilders ([source](http://www.weightrainer.net/potential.html), [study](http://www.ncbi.nlm.nih.gov/pubmed/7496846)). He used data from the pre-steroid bodybuilding era, which means it reflects how muscular males can get naturally. We'll use his results to approximate the maximum size we can weigh at [10% body fat](https://paper.imgix.net/https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_47BA25183F58123E5E1B386359348E6870986C628A36A91739F8545AFA7EFAAB_1468603592749_Male%2BPart-way%2BBody%2BTarget.jpg?auto=format&ixlib=js-0.2.1&s=8d542b39daff90e747952506b650c4a6).
 
-I've turned Casey's formula into a calculator below. This is applicable to men only:
+我把Casey的公式转换成了一个计算器，仅适用于男性：
 
 - @todo calculator here
 
