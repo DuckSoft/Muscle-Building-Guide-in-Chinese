@@ -7,9 +7,9 @@
 
 ## Most bodybuilding advice is misleading.
 
-This guide is the result of one year's research into what modern science proves is the most efficient way to build muscle. It's for both men and women.
+This handbook is the result of one year's research into what modern science proves is the most efficient way to build muscle. It's for both men and women.
 
-I wrote this guide because — even in 2016 — much of the casual weightlifting advice is unsubstantiated and misleading. I can't blame most bloggers for it, because many of the facts in this guide has not been broadly published outside of scientific literature. 
+I wrote this guide because — even in 2017 — much of the casual weightlifting advice is unsubstantiated and misleading. I can't blame most bloggers for it, because many of the facts in this guide have not been broadly published outside of scientific literature. 
 
 This guide contradicts much of the popular bodybuilding recommendations, including the myth that women have a harder time gaining beginner muscle, that exercise rest times should be kept to 1–3 minutes, that you have to regularly switch up your exercises, that machine exercises are less effective than barbell ones, and so on.
 
@@ -30,17 +30,19 @@ Inspired? You should be. If before now you haven’t been willing to spend 1–2
 
 Bear with me, as I know this sounds like an infomercial. But you will be impressed with this guide. If you're still skeptical after reading it, you can call me a fool on [Twitter](http://twitter.com/shapiro).
 
-And I should mention: This guide is free.
+And I should mention: This handbook is free.
 
-## About the author
+## About Julian
 
-I’m a startup founder and engineer. My work has been profiled in [Forbes](http://www.forbes.com/sites/alextaub/2015/06/18/major-contributor-to-open-source-technologies-julian-shapiro-pulls-back-the-curtains-on-saas-usage/#7f882fc7985e), I’ve written a [book](https://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665), I’ve built a popular [open source library](https://github.com/julianshapiro/velocity), and I’ve [started](http://thenextweb.com/apps/2011/08/05/find-a-great-domain-name-for-your-startup-without-paying-the-earth-with-namelayer/#gref) and [sold](http://venturebeat.com/2013/09/24/techstars-buys-namelayer-to-save-its-startups-from-awful-domain-names/) a company.
+Sup? I'm [Julian.](http://twitter.com/shapiro)
 
-When something strikes me as hard but rewarding, I try to figure out how to make it easy for everyone. That's what excites me. I bring an engineer’s mindset to a non-engineering problem. I go through the research and self-experiment to see if I can uncover the fundamental building blocks.
+I write deeply researched handbooks explaining complex topics in simple terms.
 
-I then weave a compelling narrative around it to motivate others to learn alongside me.
+Each handbook is more **concise** and **effective** than anything you'll find on bookshelves. And I publish it for free.
 
-You can see what guide I’m cooking up next on [Twitter](https://twitter.com/Shapiro/).
+Previously, I was a startup founder. My work has been profiled in [Forbes](http://www.forbes.com/sites/alextaub/2015/06/18/major-contributor-to-open-source-technologies-julian-shapiro-pulls-back-the-curtains-on-saas-usage/#7f882fc7985e), I’ve written a [book](https://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665), I’ve built a popular [open source library](https://github.com/julianshapiro/velocity), and I’ve [started](http://thenextweb.com/apps/2011/08/05/find-a-great-domain-name-for-your-startup-without-paying-the-earth-with-namelayer/#gref) and [sold](http://venturebeat.com/2013/09/24/techstars-buys-namelayer-to-save-its-startups-from-awful-domain-names/) a company.
+
+I have another guide that teaches you to [Grow a Startup](https://www.julian.com/learn/growth/intro).
 
 ## Bodybuilding advice for everyone
 
@@ -90,7 +92,9 @@ In other words, the majority of women prefer the left side to the right side:
 
 (Still don’t believe it? Poll your female friends.)
 
-So if your goal is to simply arrive at the optimal size for being attractive to women, **you can get there in just a few months** on this program. (But, returning to the earlier note on body fat, know that women also prefer it to be as low as possible.)
+>So if your goal is to simply arrive at the optimal size for being attractive to women, you can get there in a few months on a decent workout program.
+
+But, returning to the earlier note on body fat, know that many women prefer it to be as low as possible.
 
 #### Steroids
 
@@ -116,7 +120,7 @@ Check this out: Researcher [Casey Butt](http://www.weightrainer.net/index.html) 
 
 I've turned Casey's formula into a calculator below. This is applicable to men only:
 
- - calculator here
+- @todo  calculator here
 
 To measure the circumference of your ankle and wrist, wrap [body tape](http://a-fwd.com/es=juliancom09-21&fr=juliancom06-21&de=juliancom0c-21&uk=juliancom-21&ca=juliancom0d-20&com=juliandotc059-20&asin-es=B01B9EJBB4&asin-fr=B01G1HPD4I&asin-de=B00YC7PJAI&asin-uk=B000G7YW7Y&asin-ca=B000KBFCG6&asin-com=B000KBFCG6) around the parts indicated in the images below:
 
@@ -131,21 +135,21 @@ To measure the circumference of your ankle and wrist, wrap [body tape](http://a-
 
 #### Female physique examples
 
-Here are two women with low body fat so you can clearly see their muscle size:
+Here are two women with low enough body fat that you can clearly see their muscles:
 
 ![Female thin physique](../images/Female%20Wrong%20Body%20Target.jpg)
 
 ![Female fit physique](../images/Female%20Body%20Target.jpg)
 
-The first woman is thin (look at the frailness of her arms) and the second woman is fit. 
+The first woman is *thin* (look at the frailness of her arms) and the second woman is *fit*. 
 
 (By the way, if you're looking for more inspiration, see [here](https://www.instagram.com/achieving_balance/) and [here](https://www.instagram.com/blogilates/).)
 
-Notice I’m not using the word “toned," which isn’t a thing. When a muscle is exercised, it responds by getting bigger, but it can’t stay the same size and just get harder. So when people use the word “toned," they’re referring to the combination of (1) being thin enough that muscle definition is visible and (2) having muscles to begin with.
+Notice I’m not using the word “toned," which isn’t a thing. When a muscle is exercised, it responds by getting bigger. It can’t stay the same size and just get harder. So when people use the word “toned," they’re referring to the combination of (1) being thin enough that muscle definition is visible and (2) having muscles to begin with.
 
 You might not want to get as muscular as the second woman, but getting just halfway there will still make an enormous difference in your physique. 
 
-If you only want to be muscular in a certain areas, this program provides a workout plan for only growing your arms (biceps and triceps), abs, butt (glutes), and hamstrings. Not sure what those are? The illustration below is applicable to both women and men:
+If you only want to be muscular in certain muscle groups, this program provides a workout plan for only building your arms (biceps and triceps), abs, butt (glutes), and hamstrings. Not sure what those are? Refer to the illustration below:
 
 ![Human muscle diagram](../images/Anatomy.jpg)
 
@@ -155,13 +159,15 @@ The limiting factor to how big you can get is the broadness of your skeleton ([s
 
 But this doesn't mean women reach their maximum muscle size at a slower rate. In fact, women develop muscle at the same rate as men ([study](http://www.ncbi.nlm.nih.gov/pubmed/11890579?dopt=Abstract), [study](http://www.ncbi.nlm.nih.gov/pubmed/7558529), [study](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991130/)). (Hat tip to [Menno Henselmans](http://bayesianbodybuilding.com/natural-muscular-potential-women/) for compiling this research.) The difference is that women start with less muscle mass on average and ultimately gain less.
 
-> Even if you have an above-average sized frame, don’t be concerned about "accidentally" building lots of muscle overnight. You’ll notice muscle gains early enough in the process to avoid getting “bulky.” You will not turn into the Hulk.
+>Even if you have an above-average sized frame, don’t be concerned about "accidentally" building lots of muscle too quickly. You’ll notice muscle gains early enough in the process to avoid getting “bulky.”
 
-Yes, men have more testosterone, but testosterone is less important to the female muscle development process. In fact, women benefit from higher levels of IGF1 growth hormone, which is critical to muscle growth, as compared to men ([study](https://www.researchgate.net/publication/49661582_Circulating_levels_of_IGF1_are_associated_with_muscle_strength_in_middle-aged-_and_oldest-old_women), [study](http://press.endocrine.org/doi/abs/10.1210/jcem.81.7.8675561)). 
+Yes, men have more testosterone, but testosterone is less important to the female muscle development process. In fact, women benefit from higher levels of IGF1 growth hormone, which is critical to muscle growth ([study](https://www.researchgate.net/publication/49661582_Circulating_levels_of_IGF1_are_associated_with_muscle_strength_in_middle-aged-_and_oldest-old_women), [study](http://press.endocrine.org/doi/abs/10.1210/jcem.81.7.8675561)). 
 
-While there are certainly fewer muscular women in the world, that’s a reflection of fewer women working to become very muscular — due to our societal expectations. It’s not a reflection of it being more difficult for women to actually build muscle. You may have a hard time believing all this, so click on any of those studies to skim the research. 
+While there are fewer muscular women in the world, that’s a reflection of fewer women working to become very muscular — due to societal expectations. It’s not a reflection of it being more difficult for women to actually build muscle. You may have a hard time believing all this, so click on any of those studies to skim the research. 
 
-It’s important you understand that you're not at a disadvantage when bodybuilding because thinking otherwise can deter your progress. For example, one study examined the opposite scenario, where men were tricked into thinking they were taking steroids when they weren’t, and they consequently lifted 350% more in weight ([study](http://jamesclear.com/wp-content/uploads/2015/07/anabolic-steroids-the-physiological-effects-of-placebos.pdf), [study](http://www.ejmh.eu/mellekletek/2011_2_196_Berdi_etal.pdf))! This suggests your confidence in the gym plays a critical role in how much you can lift.
+It’s important you understand that you're not at a disadvantage when bodybuilding because thinking otherwise can deter your progress. For example, one study examined the opposite scenario, where men were tricked into thinking they were taking steroids when they weren’t, and they consequently lifted 350% more in weight ([study](http://jamesclear.com/wp-content/uploads/2015/07/anabolic-steroids-the-physiological-effects-of-placebos.pdf), [study](http://www.ejmh.eu/mellekletek/2011_2_196_Berdi_etal.pdf))! 
+
+This suggests your confidence in the gym plays a critical role in how much you can lift.
 
 #### Getting a butt
 
@@ -184,6 +190,8 @@ My arms went from 11" (28cm) unflexed to 13.5"(34cm). Inspiring for just 90 days
 ![Author physique ending point](../images/My%20Transformation%202.jpeg)
 
 I'm finally putting together a gallery of reader transformation photos. Please send your photos [here](mailto:submissions@julian.com?subject=Reader%20Transformation%20Photos).
+
+@todo add2photos
 
 ## Get rid of your workout excuses
 
