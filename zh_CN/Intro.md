@@ -7,7 +7,7 @@
 
 ## 多数的健身建议都是误导
 
-本指南是一年以来我通过现代科学能够证明的最有效的肌肉锻炼方法，它适用于任何性别的人。
+本手册是一年以来我通过现代科学能够证明的最有效的肌肉锻炼方法，它适用于任何性别的人。
 
 我写这个指南是因为即使是在 2016 年，许多非正式的健身建议都是未经证实并且带有误导性的。我不能因此责怪大多数的博主，因为在这个指南里的许多观点也还没有被广泛的发表在科学文献之外的地方。
 
@@ -29,17 +29,19 @@
 
 再忍耐一下，我知道这听起来像是电视广告，但是你会对这个指南印象深刻的。如果你看完这个指南以后还是感到怀疑，你可以到我的 [Twitter](http://twitter.com/shapiro) 上来骂我傻瓜。
 
-最后我要说明一下，这个指南是完全免费的。
+最后我要说明一下，这个手册是完全免费的。
 
 ## 关于作者
 
-我是一个创业者也是一个工程师。 我的作品被展示在 [Forbes](http://www.forbes.com/sites/alextaub/2015/06/18/major-contributor-to-open-source-technologies-julian-shapiro-pulls-back-the-curtains-on-saas-usage/#7f882fc7985e) 上，我出过 [书](https://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665)，写过 [开源库](https://github.com/julianshapiro/velocity)，还 [开过](http://thenextweb.com/apps/2011/08/05/find-a-great-domain-name-for-your-startup-without-paying-the-earth-with-namelayer/#gref) 并且 [卖掉](http://venturebeat.com/2013/09/24/techstars-buys-namelayer-to-save-its-startups-from-awful-domain-names/) 了一家公司。
+咋了? 我是 [Julian.](http://twitter.com/shapiro)
 
-当我遇到一些对我有些困难但是能从中获益的事情的时候，我会尝试想办法让它变得对其他人而言更简单一些。这就是让我兴奋的事情。我用工程师的思维模式来思考其他的事情，我通过研究和自我实验，看看我是否能够揭开本质的组成部分。
+我为了用简洁的表述解释一些复杂的话题，经过深入的研究，写出了这些手册。
 
-然后我将它编成有说服力的故事来激励人们和我一起学习。
+每份手册都比你书架上能找到的东西更加 **简洁** ，**有效**。而且这是免费的哦。
 
-你可以通过 [Twitter](https://twitter.com/Shapiro/) 查看我正在准备的其他指南。
+以前, 我是一名创业者. 我的作品被展示在 [Forbes](http://www.forbes.com/sites/alextaub/2015/06/18/major-contributor-to-open-source-technologies-julian-shapiro-pulls-back-the-curtains-on-saas-usage/#7f882fc7985e), 我出过 [书](https://www.amazon.com/Web-Animation-using-JavaScript-Develop/dp/0134096665), 我写过很受欢迎的 [开源库](https://github.com/julianshapiro/velocity), 还 [开过](http://thenextweb.com/apps/2011/08/05/find-a-great-domain-name-for-your-startup-without-paying-the-earth-with-namelayer/#gref) 并且[卖掉](http://venturebeat.com/2013/09/24/techstars-buys-namelayer-to-save-its-startups-from-awful-domain-names/) 了一家公司.
+
+我还有另一份关于如何 [初创业](https://www.julian.com/learn/growth/intro)的手册.
 
 ## 适用于每个人的健身意见
 
@@ -88,7 +90,9 @@
 
 （还是不信？让你的女性朋友来投个票吧。）
 
-因此如果你的目的是达到可以吸引女性的身材, 通过本指南**你只需要几个月时间就能实现**。 (但是回到之前提到的体脂问题，要知道女性还是会认为越低越好。)
+>因此如果你的目的是达到可以吸引女性的身材, 通过本指南你只需要几个月时间就能实现。S
+
+但是回到之前提到的体脂问题，要知道女性还是会认为越低越好。
 
 #### 类固醇
 
@@ -114,7 +118,7 @@ Check this out: Researcher [Casey Butt](http://www.weightrainer.net/index.html) 
 
 I've turned Casey's formula into a calculator below. This is applicable to men only:
 
- - calculator here
+- @todo calculator here
 
 To measure the circumference of your ankle and wrist, wrap [body tape](http://a-fwd.com/es=juliancom09-21&fr=juliancom06-21&de=juliancom0c-21&uk=juliancom-21&ca=juliancom0d-20&com=juliandotc059-20&asin-es=B01B9EJBB4&asin-fr=B01G1HPD4I&asin-de=B00YC7PJAI&asin-uk=B000G7YW7Y&asin-ca=B000KBFCG6&asin-com=B000KBFCG6) around the parts indicated in the images below:
 
@@ -129,13 +133,13 @@ To measure the circumference of your ankle and wrist, wrap [body tape](http://a-
 
 #### 女性身体范例
 
-这是两个比较瘦的女性的图片，你可以清楚得看到她们肌肉的大小：
+这是两个体脂较低的女性，你可以清楚地看到她们肌肉：
 
 ![Female thin physique](../images/Female%20Wrong%20Body%20Target.jpg)
 
 ![Female fit physique](../images/Female%20Body%20Target.jpg)
 
-第一个女性很瘦（看她脆弱的胳膊）而第二个女性很健美。
+第一个女性很*瘦*（看她脆弱的胳膊）而第二个女性很*健美*。
 
 （除此之外，如果你需要更多的激励，看 [这里](https://www.instagram.com/achieving_balance/) 还有 [这里](https://www.instagram.com/blogilates/)。）
 
@@ -153,13 +157,13 @@ The limiting factor to how big you can get is the broadness of your skeleton ([s
 
 But this doesn't mean women reach their maximum muscle size at a slower rate. In fact, women develop muscle at the same rate as men ([study](http://www.ncbi.nlm.nih.gov/pubmed/11890579?dopt=Abstract), [study](http://www.ncbi.nlm.nih.gov/pubmed/7558529), [study](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991130/)). (Hat tip to [Menno Henselmans](http://bayesianbodybuilding.com/natural-muscular-potential-women/) for compiling this research.) The difference is that women start with less muscle mass on average and ultimately gain less.
 
-> Even if you have an above-average sized frame, don’t be concerned about "accidentally" building lots of muscle overnight. You’ll notice muscle gains early enough in the process to avoid getting “bulky.” You will not turn into the Hulk.
+> Even if you have an above-average sized frame, don’t be concerned about "accidentally" building lots of muscle too quickly. You’ll notice muscle gains early enough in the process to avoid getting “bulky.”
 
-Yes, men have more testosterone, but testosterone is less important to the female muscle development process. In fact, women benefit from higher levels of IGF1 growth hormone, which is critical to muscle growth, as compared to men ([study](https://www.researchgate.net/publication/49661582_Circulating_levels_of_IGF1_are_associated_with_muscle_strength_in_middle-aged-_and_oldest-old_women), [study](http://press.endocrine.org/doi/abs/10.1210/jcem.81.7.8675561)). 
+Yes, men have more testosterone, but testosterone is less important to the female muscle development process. In fact, women benefit from higher levels of IGF1 growth hormone, which is critical to muscle growth ([study](https://www.researchgate.net/publication/49661582_Circulating_levels_of_IGF1_are_associated_with_muscle_strength_in_middle-aged-_and_oldest-old_women), [study](http://press.endocrine.org/doi/abs/10.1210/jcem.81.7.8675561)). 
 
-While there are certainly fewer muscular women in the world, that’s a reflection of fewer women working to become very muscular — due to our societal expectations. It’s not a reflection of it being more difficult for women to actually build muscle. You may have a hard time believing all this, so click on any of those studies to skim the research. 
+While there are fewer muscular women in the world, that’s a reflection of fewer women working to become very muscular — due to societal expectations. It’s not a reflection of it being more difficult for women to actually build muscle. You may have a hard time believing all this, so click on any of those studies to skim the research. 
 
-It’s important you understand that you're not at a disadvantage when bodybuilding because thinking otherwise can deter your progress. For example, one study examined the opposite scenario, where men were tricked into thinking they were taking steroids when they weren’t, and they consequently lifted 350% more in weight ([study](http://jamesclear.com/wp-content/uploads/2015/07/anabolic-steroids-the-physiological-effects-of-placebos.pdf), [study](http://www.ejmh.eu/mellekletek/2011_2_196_Berdi_etal.pdf))! This suggests your confidence in the gym plays a critical role in how much you can lift.
+It’s important you understand that you're not at a disadvantage when bodybuilding because thinking otherwise can deter your progress. For example, one study examined the opposite scenario, where men were tricked into thinking they were taking steroids when they weren’t, and they consequently lifted 350% more in weight ([study](http://jamesclear.com/wp-content/uploads/2015/07/anabolic-steroids-the-physiological-effects-of-placebos.pdf), [study](http://www.ejmh.eu/mellekletek/2011_2_196_Berdi_etal.pdf))! 
 
 #### 塑造臀部
 
@@ -182,6 +186,8 @@ It’s important you understand that you're not at a disadvantage when bodybuild
 ![Author physique ending point](../images/My%20Transformation%202.jpeg)
 
 最后我会把读者的转变照片放上来，请把你们的照片发送到[这里](mailto:submissions@julian.com?subject=Reader%20Transformation%20Photos)。
+
+@todo add2photos
 
 ## 不要为不运动找借口
 
