@@ -96,7 +96,7 @@
 
 #### 类固醇
 
-尽管这个效果更加贴合女性的喜好，你可能仍然感到好奇那些好莱坞超级英雄是如何变得如此强壮的。 震惊！事实竟然是这样：大多数的超级英雄扮演者 [在使用或以前使用了](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091)  [类固醇](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [胰岛素][https://www.t-nation.com/diet-fat-loss/insulin-advantage)，或 [生长激素](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — 这些可都是可能导致严重健康问题的。不然怎么可能在短短几年内从平均身材成长为 [雷神尺寸](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ 呢？
+尽管这个效果更加贴合女性的喜好，你可能仍然感到好奇那些好莱坞超级英雄是如何变得如此强壮的。 事实是：大多数的超级英雄扮演者 [在使用或以前使用了](http://www.hollywoodreporter.com/news/hollywood-steroid-use-a-list-609091)  [类固醇](https://www.t-nation.com/steroids/steroids-what-pro-bodybuilders-are-really-using], [胰岛素][https://www.t-nation.com/diet-fat-loss/insulin-advantage)，或 [生长激素](http://www.health.harvard.edu/diseases-and-conditions/growth-hormone-athletic-performance-and-aging) — 这些可都是可能导致严重健康问题的。不然怎么可能在短短几年内从平均身材成长为 [雷神尺寸](https://www.youtube.com/watch?v=zLxEDaA9j2E#t=0m30s)™ 呢？
 
 所以让这些名流淡出你的目标吧，你被骗咯。
 
